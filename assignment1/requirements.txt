@@ -1,0 +1,6 @@
+Do the Word Count of the attached file.
+
+이 과제에 대한 질문
+Which Transforms you will need
+
+Is regex required
